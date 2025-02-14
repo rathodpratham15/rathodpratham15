@@ -1,3 +1,5 @@
+Hello everyone, I'm Pratham Rathod. I'm a Mobile and Full-Stack Software Engineer passionate about building scalable, high-performance mobile and web applications.
+
 🚀 About Me
 I am a passionate Software Engineer pursuing a Master’s in Computer Software Engineering at Northeastern University. With a strong foundation in full-stack development, cloud computing, and DevOps, I specialize in building scalable, high-performance applications and optimizing system efficiency.
 
