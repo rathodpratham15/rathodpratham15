@@ -1,33 +1,30 @@
-Hello everyone, I'm Pratham Rathod. I'm a Mobile and Full-Stack Software Engineer passionate about building scalable, high-performance mobile and web applications.
+Hello everyone. I'm Pratham Rathod. I'm a Mobile and Full-Stack Software Engineer passionate about building scalable, high-performance mobile and web applications.
 
 🚀 About Me
 I am a passionate Software Engineer pursuing a Master’s in Computer Software Engineering at Northeastern University. With a strong foundation in full-stack development, cloud computing, and DevOps, I specialize in building scalable, high-performance applications and optimizing system efficiency.
 
-With hands-on experience in React.js, Node.js, Python, AWS, and Kubernetes, I thrive in fast-paced, collaborative environments, where I can solve complex problems and transform innovative ideas into reality.
+With hands-on experience in React.js, Node.js, Python, AWS, and Kubernetes, I thrive in fast-paced, collaborative environments where I can solve complex problems and transform innovative ideas into reality.
 
 🎓 Education
 Master of Science in Computer Software Engineering – Northeastern University, Boston, MA (Expected May 2026)
 Bachelor of Engineering in Computer Science – Shah & Anchor Kutchhi Engineering College, Mumbai University, India (June 2024)
 💻 Technical Skills & Certifications
 Languages & Frameworks:
-✔ Python, JavaScript (ES6+), TypeScript, Java, Kotlin, C++
-✔ React.js, Node.js, Express.js, Spring Boot, Flask, Next.js
+Python, JavaScript (ES6+), TypeScript, Java, Kotlin, C++
+React.js, Node.js, Express.js, Spring Boot, Flask, Next.js
 
 Databases & Backend:
-✔ MySQL, PostgreSQL, MongoDB, DynamoDB, Redis
+MySQL, PostgreSQL, MongoDB, DynamoDB
 
 Cloud & DevOps:
-✔ AWS (EC2, S3, Lambda, DynamoDB, CloudFront)
-✔ Docker, Kubernetes, Terraform, Firebase
+AWS (EC2, S3, Lambda, DynamoDB)
+Docker, Kubernetes, Terraform, Firebase
 
 CI/CD & Tools:
-✔ Jenkins, GitHub Actions, Git, Webpack, Babel
+Jenkins, GitHub Actions, Git, Webpack, Babel
 
 Testing & Debugging:
-✔ Jest, Cypress, Postman, Unit Testing, Integration Testing
-
-Certifications:
-✔ Web Development, Data Science, Project Management
+Jest, Cypress, Postman, Unit Testing, Integration Testing
 
 🚀 Professional Experience
 -Android Developer Intern | SAKEC Marathon, Mumbai, India (Dec 2023 - Mar 2024)
