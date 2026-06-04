@@ -135,7 +135,7 @@ TypeScript · Python · JavaScript · Java · Kotlin · SQL
 
 💼 https://linkedin.com/in/pratham-rathod
 
-🌐 https://pratham.click
+🌐 [https://pratham.click](https://rathodpratham.framer.website/)
 
 ---
 
